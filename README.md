@@ -3,3 +3,10 @@
 Для запуска приложения необходимо использовать live-server
 ![изображение live-server](image.png)
 Live-server является расширением VSCode
+ссылка на страницу:
+[https://196qwerty196.github.io/mesto-production/](https://196qwerty196.github.io/mesto-production/)
+Команды:
+```bash
+git add .
+git commit -m "feat: обновление проекта"
+git push origin main
