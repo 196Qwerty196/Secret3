@@ -4,7 +4,7 @@
 ![изображение live-server](image.png)
 Live-server является расширением VSCode
 ссылка на страницу:
-[https://196qwerty196.github.io/mesto-production/](https://196qwerty196.github.io/mesto-production/)
+[https://196qwerty196.github.io/Secret3/](https://196qwerty196.github.io/Secret3/)
 Команды:
 ```bash
 git add .
